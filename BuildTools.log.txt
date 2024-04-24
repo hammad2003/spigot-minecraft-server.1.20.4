@@ -1,0 +1,5 @@
+[]
+Loading BuildTools version: git-BuildTools-a50d932-181 (#181)
+Java Version: Java 18
+Current Path: /home/usuario/smai
+Could not successfully run git. Please ensure it is installed and functioning. Cannot run program "git" (in directory "."): error=2, No existe el archivo o el directorio
